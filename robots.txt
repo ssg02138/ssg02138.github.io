@@ -14,4 +14,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://bi-brand-insight.github.io/today_jodal_landing/sitemap.xml
+Sitemap: https://ssg02138.github.io/sitemap.xml
