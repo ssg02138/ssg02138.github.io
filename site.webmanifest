@@ -1,0 +1,18 @@
+{
+  "name": "오늘의조달",
+  "short_name": "오늘의조달",
+  "description": "공사·용역·물품·시설 조달계획을 검색하고 신규 조달공고, 담당자 연락처, 상세 내용을 확인·공유하는 모바일 서비스 오늘의조달입니다.",
+  "lang": "ko-KR",
+  "start_url": "/today_jodal_landing/",
+  "scope": "/today_jodal_landing/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#246BEB",
+  "icons": [
+    {
+      "src": "/today_jodal_landing/images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}

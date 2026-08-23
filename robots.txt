@@ -1,0 +1,17 @@
+# Search and answer-engine crawlers
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://bi-brand-insight.github.io/today_jodal_landing/sitemap.xml
